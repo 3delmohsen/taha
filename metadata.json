@@ -1,0 +1,8 @@
+{
+  "name": "Taha (Islamic Platform)",
+  "description": "An ultimate Islamic application featuring a high-quality Quran reader with audio, accurate prayer times with Qibla direction, an AI-powered Fatwa consultant, and interactive Hajj guides.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
